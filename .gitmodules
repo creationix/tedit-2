@@ -1,0 +1,63 @@
+[submodule "deps/codemirror/state"]
+	path = deps/@codemirror/state
+	url = https://github.com/codemirror/state.git
+[submodule "deps/codemirror/text"]
+	path = deps/@codemirror/text
+	url = https://github.com/codemirror/text.git
+[submodule "deps/codemirror/rangeset"]
+	path = deps/@codemirror/rangeset
+	url = https://github.com/codemirror/rangeset.git
+[submodule "deps/codemirror/language"]
+	path = deps/@codemirror/language
+	url = https://github.com/codemirror/language.git
+[submodule "deps/codemirror/commands"]
+	path = deps/@codemirror/commands
+	url = https://github.com/codemirror/commands.git
+[submodule "deps/codemirror/panel"]
+	path = deps/@codemirror/panel
+	url = https://github.com/codemirror/panel.git
+[submodule "deps/codemirror/tooltip"]
+	path = deps/@codemirror/tooltip
+	url = https://github.com/codemirror/tooltip.git
+[submodule "deps/codemirror/history"]
+	path = deps/@codemirror/history
+	url = https://github.com/codemirror/history.git
+[submodule "deps/codemirror/gutter"]
+	path = deps/@codemirror/gutter
+	url = https://github.com/codemirror/gutter.git
+[submodule "deps/codemirror/collab"]
+	path = deps/@codemirror/collab
+	url = https://github.com/codemirror/collab.git
+[submodule "deps/codemirror/language-data"]
+	path = deps/@codemirror/language-data
+	url = https://github.com/codemirror/language-data.git
+[submodule "deps/codemirror/fold"]
+	path = deps/@codemirror/fold
+	url = https://github.com/codemirror/fold.git
+[submodule "deps/codemirror/matchbrackets"]
+	path = deps/@codemirror/matchbrackets
+	url = https://github.com/codemirror/matchbrackets.git
+[submodule "deps/codemirror/closebrackets"]
+	path = deps/@codemirror/closebrackets
+	url = https://github.com/codemirror/closebrackets.git
+[submodule "deps/codemirror/lint"]
+	path = deps/@codemirror/lint
+	url = https://github.com/codemirror/lint.git
+[submodule "deps/codemirror/highlight"]
+	path = deps/@codemirror/highlight
+	url = https://github.com/codemirror/highlight.git
+[submodule "deps/codemirror/stream-parser"]
+	path = deps/@codemirror/stream-parser
+	url = https://github.com/codemirror/stream-parser.git
+[submodule "deps/codemirror/autocomplete"]
+	path = deps/@codemirror/autocomplete
+	url = https://github.com/codemirror/autocomplete.git
+[submodule "deps/codemirror/comment"]
+	path = deps/@codemirror/comment
+	url = https://github.com/codemirror/comment.git
+[submodule "deps/codemirror/rectangular-selection"]
+	path = deps/@codemirror/rectangular-selection
+	url = https://github.com/codemirror/rectangular-selection.git
+[submodule "deps/codemirror/basic-setup"]
+	path = deps/@codemirror/basic-setup
+	url = https://github.com/codemirror/basic-setup.git
