@@ -61,3 +61,45 @@
 [submodule "deps/codemirror/basic-setup"]
 	path = deps/@codemirror/basic-setup
 	url = https://github.com/codemirror/basic-setup.git
+[submodule "deps/@codemirror/lang-javascript"]
+	path = deps/@codemirror/lang-javascript
+	url = https://github.com/codemirror/lang-javascript.git
+[submodule "deps/@codemirror/lang-java"]
+	path = deps/@codemirror/lang-java
+	url = https://github.com/codemirror/lang-java.git
+[submodule "deps/@codemirror/lang-json"]
+	path = deps/@codemirror/lang-json
+	url = https://github.com/codemirror/lang-json.git
+[submodule "deps/@codemirror/lang-cpp"]
+	path = deps/@codemirror/lang-cpp
+	url = https://github.com/codemirror/lang-cpp.git
+[submodule "deps/@codemirror/lang-python"]
+	path = deps/@codemirror/lang-python
+	url = https://github.com/codemirror/lang-python.git
+[submodule "deps/@codemirror/lang-css"]
+	path = deps/@codemirror/lang-css
+	url = https://github.com/codemirror/lang-css.git
+[submodule "deps/@codemirror/lang-html"]
+	path = deps/@codemirror/lang-html
+	url = https://github.com/codemirror/lang-html.git
+[submodule "deps/@codemirror/lang-sql"]
+	path = deps/@codemirror/lang-sql
+	url = https://github.com/codemirror/lang-sql.git
+[submodule "deps/@codemirror/lang-rust"]
+	path = deps/@codemirror/lang-rust
+	url = https://github.com/codemirror/lang-rust.git
+[submodule "deps/@codemirror/lang-xml"]
+	path = deps/@codemirror/lang-xml
+	url = https://github.com/codemirror/lang-xml.git
+[submodule "deps/@codemirror/lang-markdown"]
+	path = deps/@codemirror/lang-markdown
+	url = https://github.com/codemirror/lang-markdown.git
+[submodule "deps/@codemirror/lang-lezer"]
+	path = deps/@codemirror/lang-lezer
+	url = https://github.com/codemirror/lang-lezer.git
+[submodule "deps/@codemirror/legacy-modes"]
+	path = deps/@codemirror/legacy-modes
+	url = https://github.com/codemirror/legacy-modes.git
+[submodule "deps/@codemirror/theme-one-dark"]
+	path = deps/@codemirror/theme-one-dark
+	url = https://github.com/codemirror/theme-one-dark.git
