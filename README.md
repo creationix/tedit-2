@@ -8,7 +8,7 @@ When Tedit was originally made, service workers weren't a thing and I simulated 
 
 ## Filesystem Access
 
-In old Tedit, filesystem access was only possile in chrome packaged apps.  Now it's part of the web platform as `window.showOpenFilePicker()`
+In old Tedit, filesystem access was only possible in chrome packaged apps.  Now it's part of the web platform as `window.showOpenFilePicker()`
 
 - https://wicg.github.io/file-system-access/
 
